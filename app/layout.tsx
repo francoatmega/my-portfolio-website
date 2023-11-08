@@ -6,19 +6,18 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "francoatmega.io",
+		template: "%s | francoatmega.io",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "I'm a backend software engineer passionate about infosec.",
 	openGraph: {
-		title: "chronark.com",
-		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+		title: "francoatmega.io",
+		description: "I'm a backend software engineer passionate about infosec.",
+		url: "https://francoatmega.io",
+		siteName: "francoatmega.io",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://francoatmega.io/_next/image?url=%2Fauthor.jpg",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,7 +37,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "francoatmega",
 		card: "summary_large_image",
 	},
 	icons: {

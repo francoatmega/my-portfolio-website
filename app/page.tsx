@@ -34,7 +34,7 @@ export default function Home() {
 				Jardel Matias
 			</h1>
 			
-			<div className="hidden w-1/3 h-px mt-4 md:block bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
+			<div className="w-1/3 h-px mt-4 block block bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 
 			<h1 className="z-10 text-3xl p-5 text-transparent bg-white cursor-default text-edge-outline font-display sm:text-3xl md:text-7xl whitespace-nowrap bg-clip-text ">
 				Software Engineer
