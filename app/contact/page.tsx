@@ -37,7 +37,7 @@ const socials = [
 	},
 	{
 		icon: <Instagram size={20} />,
-		href: "https://instagram.com/francoatmega",
+		href: "https://instagram.com/0xfr4nc04tmeg4",
 		label: "Instagram",
 		handle: "Instagram",
 	}
