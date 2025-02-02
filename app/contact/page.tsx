@@ -13,7 +13,7 @@ const socials = [
 	},
 	{
 		icon: <View size={20} />,
-		href: "https://medium.com/@francoatmega",
+		href: "https://medium.com/@jardelmatias",
 		label: "Medium",
 		handle: "Medium",
 	},
@@ -29,18 +29,18 @@ const socials = [
 		label: "Email",
 		handle: "Email",
 	},
-	{
-		icon: <X size={20} />,
-		href: "https://x.com/francoatmega",
-		label: "X",
-		handle: "X",
-	},
-	{
-		icon: <Instagram size={20} />,
-		href: "https://instagram.com/0xfr4nc04tmeg4",
-		label: "Instagram",
-		handle: "Instagram",
-	}
+	// {
+	// 	icon: <X size={20} />,
+	// 	href: "https://x.com/francoatmega",
+	// 	label: "X",
+	// 	handle: "X",
+	// },
+	// {
+	// 	icon: <Instagram size={20} />,
+	// 	href: "https://instagram.com/francoatmega",
+	// 	label: "Instagram",
+	// 	handle: "Instagram",
+	// }
 ];
 
 export default function contact() {
