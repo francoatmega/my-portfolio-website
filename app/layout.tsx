@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 		siteName: "francoatmega.io",
 		images: [
 			{
-				url: "https://francoatmega.io/_next/image?url=%2Fauthor.jpg",
+				url: "https://francoatmega.io/_next/image?url=%2Fauthor.jpeg",
 				width: 1920,
 				height: 1080,
 			},

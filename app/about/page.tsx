@@ -9,7 +9,7 @@ export default function about() {
 		<div className="h-screen sm:w-4/5 md:w-1/2 mx-auto flex flex-col items-center justify-center">
 			<div className="flex w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 inline-block relative pt-32">
 				<Image
-					src="/author.jpg"
+					src="/author.jpeg"
 					alt="Picture of the author"
 					fill
 					quality={100}
